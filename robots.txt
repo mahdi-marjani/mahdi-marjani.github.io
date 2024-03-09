@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mahdi-marjani.github.io/sitemap.xml
